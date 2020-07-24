@@ -11,3 +11,4 @@ Compete - Monthly Programming Contests, Cook-off and Lunchtime
 this line does not contains hte searched word
 
 
+this is for git
